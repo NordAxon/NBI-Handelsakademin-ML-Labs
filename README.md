@@ -4,7 +4,7 @@ ML Labbar för NBI Handelsakademin.
 ## image-lab
 - Tänkt att köras direkt i Googel CoLab.
 - Ett Kaggle-konto är nödvändigt för att ladda ner datasetet, finns instruktioner i relevanta notebooks.
-- Går och köra lokalt i t.ex. VSCode om man modifierar paths som utgår i från CoLab.
+- Går och köra lokalt i t.ex. VSCode om man modifierar paths som utgår ifrån CoLab.
 
 Lokalt conda environment:
 ```bash
